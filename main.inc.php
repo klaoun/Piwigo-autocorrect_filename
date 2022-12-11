@@ -3,7 +3,7 @@
 Plugin Name: Autocorrect Filename
 Version: auto
 Description: Autocorrect filename of the photo on upload
-Plugin URI: http://piwigo.org/ext/extension_view.php?eid=
+Plugin URI: http://piwigo.org/ext/extension_view.php?eid=791
 Author: plg
 Author URI: http://le-gall.net/pierrick
 */
